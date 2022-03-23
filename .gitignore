@@ -25,3 +25,11 @@ yarn-error.log*
 node_sqlite3.node
 tipitaka-lk.exe
 fts.db
+
+# python
+**/.venv
+**/output/**
+**/__pycache__
+!**output
+!**/output/.gitkeep
+**/.pytest_cache

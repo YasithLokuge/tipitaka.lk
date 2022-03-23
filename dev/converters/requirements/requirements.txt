@@ -1,0 +1,3 @@
+natsort==8.1.0
+domonic==0.9.7
+pypandoc==1.7.2
